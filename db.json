@@ -1,0 +1,65 @@
+{
+  "categories" : [ 
+  {
+  "id": "1",
+  "name": "Warm-Up"}, 
+  {
+  "id": "2",
+  "name": "Presentation"}, 
+  {
+  "id": "3",
+  "name": "Practice"}, 
+  {
+  "id": "4",
+  "name": "Performance"}, 
+  {
+  "id": "5",
+  "name": "Cool-Down"}
+      ],
+  "activities": [ {
+  "id": "4",
+  "name": "Role Play",
+  "duration": "5min",
+  "groups": "pairs",
+  "categoryId": "4",
+  "content": "Have studnets write a role-play and perform it in front of the class. "
+}, {
+  "id": "1",
+  "name": " Kung-Fu Phonics ",
+  "duration": "10 min",
+  "groups": "Whole Class",
+  "categoryId": "1",
+  "content": " Prepare a list of minimal-pairs phonics. \n\rHave the students stand up. \n\r" +
+          " Assign a phonic sound to either a punch or a kick. \n\r Say a minimal pair wo" +
+          "rd on your list, students then punch or kick. \n\r If they do the wrong action" +
+          ", they sit down. \n\r play until there is a winner. "
+}, {
+  "id": "2",
+  "name": "Shadowing",
+  "duration": "15 min",
+  "groups": "pairs",
+  "categoryId": "2",
+  "content": " Teacher and a volunteer will read prepared role plays for the students to lis" +
+          "ten to. \n\r Disccuss the role plays, and then have the students shadow after " +
+          "you and the volunteer."
+}, {
+  "id": "3",
+  "name": "Find Your Match",
+  "duration": "15 min",
+  "groups": "pairs",
+  "categoryId": "3",
+  "content": " Students are given part of a role play. \n\r They have to walk around the cla" +
+          "ssroom saying their role play to see if they can find their other half. \n\r W" +
+          "hen they have a match, they perform it for the teacher, and are given a new ha" +
+          "lf of a role play.\n\r  How many role plays can they finish?"
+}, {
+  "id": "5",
+  "name": " Criss Cross ",
+  "duration": "15 min",
+  "groups": "Whole Class",
+  "categoryId": "5",
+  "content": "'Students stand up. \n\r Teachers ask questions based on the grammar point lea" +
+          "rnt. If a student answers the question. they get to choose how to sit down."
+}
+]
+}
