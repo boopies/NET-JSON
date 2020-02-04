@@ -1,4 +1,4 @@
-module.exports = () => ({
+{
     "categories": [ 
         {
         "id": "1",
@@ -121,4 +121,4 @@ module.exports = () => ({
 
 ]
 
-})
+}
